@@ -29,7 +29,7 @@ This resume showcases my key skills, education, experience, and projects.
 ## 📫 Contact
 
 - Email: [Hemant_189@outlook.com](mailto:Hemant_189@outlook.com)
-- GitHub: [hemantchilkuri](https://github.com/hemantchilkuri)
+- GitHub: [CHHemant](https://github.com/CHHemant)
 - LinkedIn: [hemant-chilkuri](https://www.linkedin.com/in/hemant-chilkuri)
 
 ---
